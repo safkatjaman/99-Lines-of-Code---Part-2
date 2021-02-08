@@ -1,0 +1,30 @@
+body {
+      background-color: rgb(87, 171, 250);
+      font-family: cascadia code;
+      text-align: center;
+}
+
+.header {
+      color: rgb(129, 16, 235);
+}
+
+.friend {
+      background-color: rgba(160, 60, 60, 0.733);
+      border-radius: 1em;
+      padding: 1em;
+      font-size: 1.3em;
+      margin: 1em;
+}
+
+.friend > h3 {
+      text-transform: uppercase;
+}
+
+.sing-button {
+      margin-top: 1em;
+      padding: 1em 2em 1em 2em;
+      font-size: 1.3em;
+      border-radius: .7em;
+      color: black;
+      font-weight: 900;
+}
